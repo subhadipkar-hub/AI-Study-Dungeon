@@ -10,7 +10,7 @@ const FALLBACK_MODELS = [
 "gemini-3.5-flash",
 "gemini-3.6-flash",
 "gemini-3.5-flash-lite",
-"gemini-3.8-flash"
+"gemini-3.5-flash"
 ].filter((model, index, all) => model !== MODEL && all.indexOf(model) === index);
 let ACTIVE_MODEL = MODEL;
 let modelAvailability = { status: "checking", checkedAt: null, message: "Model check is pending." };
