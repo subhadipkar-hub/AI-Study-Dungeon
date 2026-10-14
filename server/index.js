@@ -6,7 +6,12 @@ import { GoogleGenAI } from "@google/genai";
 const app = express();
 const PORT = Number(process.env.PORT || 3001);
 const MODEL = process.env.GEMINI_MODEL || "gemini-3.8-flash";
-const FALLBACK_MODELS = ["gemini-3.5-flash-lite"];
+const FALLBACK_MODELS = [
+"gemini-3.5-flash",
+"gemini-3.6-flash",
+"gemini-3.5-flash-lite",
+"gemini-3.8-flash"
+].filter((model, index, all) => model !== MODEL && all.indexOf(model) === index);
 let ACTIVE_MODEL = MODEL;
 let modelAvailability = { status: "checking", checkedAt: null, message: "Model check is pending." };
 
