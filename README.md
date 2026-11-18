@@ -246,7 +246,7 @@ git clone https://github.com/subhadipkar-hub/AI-Study-Dungeon.git
 cd Ai-Study-Dungeon
 ```
 
-Alternatively, download the repository using **GitHub → Code → Download ZIP**, extract it, and open a terminal in the extracted `ai-study-dungeon` folder.
+Alternatively, download the repository using **GitHub → Code → Download ZIP**, extract it, and open a terminal in the extracted `Ai-Study-Dungeon` folder.
 
 ### 2. Install dependencies
 
