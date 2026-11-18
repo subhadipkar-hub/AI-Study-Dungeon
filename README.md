@@ -239,11 +239,11 @@ npm -v
 
 ### 1. Get the source code
 
-Clone the repository (replace the GitHub username with the repository owner's username):
+Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/ai-study-dungeon.git
-cd ai-study-dungeon
+git clone https://github.com/subhadipkar-hub/AI-Study-Dungeon.git
+cd Ai-Study-Dungeon
 ```
 
 Alternatively, download the repository using **GitHub → Code → Download ZIP**, extract it, and open a terminal in the extracted `ai-study-dungeon` folder.
