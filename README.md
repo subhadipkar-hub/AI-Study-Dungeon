@@ -35,25 +35,25 @@ The following screenshots are from the running application.
 
 The home dashboard brings together the learner profile, XP, learning mission, focus areas, and shortcuts into the learning experience.
 
-![AI Study Dungeon dashboard](docs/images/dashboard.png)
+![AI Study Dungeon dashboard](dashboard.png)
 
 ### Dungeons — Subject Knowledge Map
 
 The Dungeons screen organizes subjects and their topics into a knowledge map, helping learners navigate their areas of study.
 
-![AI Study Dungeon subject knowledge map](docs/images/dungeons.png)
+![AI Study Dungeon subject knowledge map](dungeons.png)
 
 ### Quiz Battle — Stage Practice
 
 The practice screen presents stage-based questions, answer choices, hints, and learner evidence.
 
-![AI Study Dungeon quiz battle](docs/images/quiz.png)
+![AI Study Dungeon quiz battle](quiz.png)
 
 ### AI Tutor
 
 The AI Tutor provides a conversational learning companion for explanations, follow-up questions, and guided study.
 
-![AI Study Dungeon AI Tutor](docs/images/tutor.png)
+![AI Study Dungeon AI Tutor](tutor.png)
 
 ---
 
